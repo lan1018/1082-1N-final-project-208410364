@@ -1,0 +1,19 @@
+body {
+  background-image: url(./picture/pic1.jpg);
+  background-size: 1950px;
+  background-position: auto;
+  border: solid;
+  background-size: cover;
+  border: 2px solid white;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+button {
+  text-align: center;
+  border: tomato;
+  font-family: monospace;
+}

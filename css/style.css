@@ -1,0 +1,100 @@
+body {
+  background-size: cover;
+}
+.main {
+  margin: 2%;
+}
+
+.card {
+  text-align: center;
+  width: 355px;
+  height: 550px;
+  float: left;
+  box-shadow: 2px 2px 20px black;
+  border-radius: 8px;
+  margin: 2%;
+  background-color: red;
+  opacity: 0.8;
+  border: 2px solid white;
+}
+
+.image img {
+  height: 300px;
+  width: 100%;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.title {
+  text-align: center;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+.des {
+  padding: 3px;
+  text-align: center;
+  padding-top: 10px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+button {
+  margin-top: 40px;
+  margin-bottom: 10px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 15px;
+}
+button:hover {
+  background-color: #1afd9c;
+  color: white;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+#card {
+  font: inherit;
+  padding: 0.5rem 1rem;
+  border: 2px solid rgb(35, 197, 148);
+  color: black;
+  border-radius: 10px;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.26);
+  cursor: pointer;
+  float: right;
+  margin: 2rem;
+  margin-right: 300px;
+  width: 80px;
+  height: 70px;
+}
+#movie-element {
+  width: 20%;
+  height: 100%;
+  display: inline-block;
+  box-shadow: 2px 2px 20px black;
+  border-radius: 5px;
+  margin: 2%;
+  background-color: rgb(29, 141, 246);
+  opacity: 0.8;
+  border: 2px solid black;
+}
+
+#mid-card-list {
+  margin-top: 50px;
+}
+
+#mid-heading {
+  text-align: center;
+}
+
+span {
+  text-align: center;
+}
+
+#card {
+  width: 100px;
+  height: 90px;
+}
